@@ -1,2 +1,2 @@
 # test-vido
-شرح github
+شرح github بالخطوات
